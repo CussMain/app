@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.748c3029.css",
-    "main.js": "/static/js/main.a9665d48.js",
-    "index.html": "/index.html",
-    "main.748c3029.css.map": "/static/css/main.748c3029.css.map",
-    "main.a9665d48.js.map": "/static/js/main.a9665d48.js.map"
+    "main.css": "https://cussmain.github.io/app/static/css/main.748c3029.css",
+    "main.js": "https://cussmain.github.io/app/static/js/main.a9665d48.js",
+    "index.html": "https://cussmain.github.io/app/index.html",
+    "main.748c3029.css.map": "https://cussmain.github.io/app/static/css/main.748c3029.css.map",
+    "main.a9665d48.js.map": "https://cussmain.github.io/app/static/js/main.a9665d48.js.map"
   },
   "entrypoints": [
-    "static/css/main.748c3029.css",
-    "static/js/main.a9665d48.js"
+    "https://cussmain.github.io/app/static/css/main.748c3029.css",
+    "https://cussmain.github.io/app/static/js/main.a9665d48.js"
   ]
 }
