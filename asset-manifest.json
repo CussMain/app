@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CussMain/app/static/css/main.748c3029.css",
-    "main.js": "/CussMain/app/static/js/main.a9665d48.js",
+    "main.js": "/CussMain/app/static/js/main.bfc22569.js",
     "index.html": "/CussMain/app/index.html",
     "main.748c3029.css.map": "/CussMain/app/static/css/main.748c3029.css.map",
-    "main.a9665d48.js.map": "/CussMain/app/static/js/main.a9665d48.js.map"
+    "main.bfc22569.js.map": "/CussMain/app/static/js/main.bfc22569.js.map"
   },
   "entrypoints": [
     "static/css/main.748c3029.css",
-    "static/js/main.a9665d48.js"
+    "static/js/main.bfc22569.js"
   ]
 }
